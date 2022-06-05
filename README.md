@@ -4,8 +4,8 @@
 | CPU | Intel i7-9700f |
 | --- | --- |
 |  内存  | 2 * 8G 2666 |
-| 显卡 | RX6600 |
-| 主板 | MSI-B365M |
+| 显卡 | 蓝宝石 RX6600 |
+| 主板 | 微星 B365M |
 
 # macOS Monterey 12.4
 ![image](https://user-images.githubusercontent.com/29620832/172036971-dbb51ef8-39d1-478a-8bbf-21a095fbca89.png)
