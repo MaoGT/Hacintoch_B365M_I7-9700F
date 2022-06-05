@@ -14,3 +14,5 @@
 ![image](https://user-images.githubusercontent.com/29620832/172037052-9237dbdc-326f-42d4-b49d-c039af458f3e.png)
 # 存在问题
 USB2.0不可用
+解决方法:USB定制
+详细参考国光大大的博客https://apple.sqlsec.com/6-实用姿势/6-1.html
