@@ -9,7 +9,6 @@
 | 网卡 | BCM94360CD |
 
 # macOS Monterey 12.4
-![Uploading 截屏2022-06-10 16.23.06.png…]()
 # 存在问题
 蓝牙连上iPad过几秒断开
 iPad可以屏幕镜像此Mac，但是此Mac不可以扩展或者镜像至iPad
