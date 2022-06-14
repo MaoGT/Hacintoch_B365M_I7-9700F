@@ -11,4 +11,4 @@
 # macOS Monterey 12.4
 # 存在问题
 蓝牙连上iPad过几秒断开
-iPad可以屏幕镜像此Mac，但是此Mac不可以扩展或者镜像至iPad
+iPad可以屏幕镜像此Mac，但是此Mac不可以扩展或者镜像至iPad(听大佬说是没有核显的问题)
